@@ -6,6 +6,8 @@ layout: default
 
 Originated as a Hackathon project from Hack and Roll 2020, this project aims to develop an affordable remote controlled robot. This could be used in situations where it is difficult or dangerous for humans to explore, or it can be simply used for fun.
 
+The original Devpost can be found [here](https://devpost.com/software/hnr2020-vr-robot), but a [copy](./devpost) is also kept on this repository.
+
 ## Components
 
 There are 3 main physical components that make up the project. They are:
