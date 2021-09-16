@@ -98,6 +98,8 @@ TBC
 
 ## Assembly
 
+### Camera Casing
+
 TBC
 
 ## Issues
@@ -115,6 +117,10 @@ TBC for robot
 ## Future Plans
 
 We do not have any future plans for this project, so feel free to fork it or build on it to create your own version of the robot.
+
+## Contact
+
+For software related matters, feel free to contact @pcchin on [GitHub](https://github.com/pcchin), Discord (Pcchin#6153), or via email at [pcchin@pcchin.com](mailto:pcchin@pcchin.com).
 
 ## License
 
